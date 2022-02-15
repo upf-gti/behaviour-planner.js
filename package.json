@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "behaviour-planner.js": "^1.0.2",
+    "compromise": "^13.11.4",
+    "compromise-dates": "^2.2.1",
+    "compromise-numbers": "^1.4.0",
+    "gl-matrix": "^3.4.3",
+    "hbtree": "1.0.0",
+    "hbtree-extension": "^0.0.2",
+    "litegraph": "^0.0.0",
+    "litegraph.js": "^0.7.10"
+  }
+}
