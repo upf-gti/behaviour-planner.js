@@ -1,3 +1,5 @@
+# behaviour-planner.js
+
 Javascript library for making decisions about the verbal and non-verbal behaviour of an embodied conversational agent using hybrid behaviour trees. It is based on the SAIBA multi-modal Behaviour Generation Framework and acts as a Behaviour Planner.
 
 At runtime, the library outputs BML blocks containing a number of behaviour elements with synchronisation. The planner also waits for messages from the Behaviour Realizer to inform it of the progress of the realisation as well as what is happening in the environment (e.g. user response). Used to inform the planner (and possibly other processes) of the progress of the realisation process.
